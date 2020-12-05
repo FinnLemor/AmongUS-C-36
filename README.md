@@ -1,2 +1,2 @@
-# AmongUS-C-36
-stunning-barnacle
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
